@@ -1,0 +1,8 @@
+{
+  "name": "node.js-advanced",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dannash100/node.js-advanced.git",
+  "author": "dannash100 <danster15@gmail.com>",
+  "license": "MIT"
+}
